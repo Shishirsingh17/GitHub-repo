@@ -59,3 +59,9 @@ def test_null_values_check():
         expected_null = ["YES","YES","YES","YES","YES"]
         assert is_null==expected_null,'null validation fail'
 
+def test_null_valus2and 3():
+
+
+xcfvsfdgsfdsgit
+
+V5
