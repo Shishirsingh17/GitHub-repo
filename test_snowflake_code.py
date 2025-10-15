@@ -58,10 +58,3 @@ def test_null_values_check():
         is_null=[row[0] for row in cursor.fetchall()]
         expected_null = ["YES","YES","YES","YES","YES"]
         assert is_null==expected_null,'null validation fail'
-
-def test_null_valus2and 3():
-
-
-xcfvsfdgsfdsgit
-
-V6
